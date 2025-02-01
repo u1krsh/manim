@@ -5,7 +5,7 @@ This project visualizes a mathematical wave function using [Manim](https://www.m
 ## Description
 The script generates a graph of the function:
 
-\[ f(x) = \sin(x) + \cos(\frac{x}{2}) \]
+$\ f(x) = \sin(x) + \cos(\frac{x}{2}) $
 
 This function combines elements of sine and cosine waves, creating an interesting wave interaction.
 
