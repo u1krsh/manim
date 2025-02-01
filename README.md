@@ -1,4 +1,4 @@
-# manim# Wave Visualization with Manim
+# Wave Visualization with Manim
 
 This project visualizes a mathematical wave function using [Manim](https://www.manim.community/), a powerful Python animation engine for mathematical visualizations.
 
@@ -29,8 +29,11 @@ Run the script using the following command:
 manim -pql wave_script.py wave
 ```
 
+
 This will generate and display the animation.
 
+## Animation Example
+![wave](https://github.com/user-attachments/assets/ffc05aa5-563e-4dc2-943f-8886ea0537b1)
 ## Features
 - Uses Manim's `Axes` to create a coordinate plane
 - Plots a mathematical function with Manim's `plot` method
